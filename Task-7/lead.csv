@@ -1,0 +1,6 @@
+emp_name,dept_id,salary,next_salary
+Meena,1,52000.00,50000.00
+Arun,1,50000.00,NULL
+Priya,2,45000.00,NULL
+Kiran,3,60000.00,NULL
+Ravi,4,48000.00,NULL
