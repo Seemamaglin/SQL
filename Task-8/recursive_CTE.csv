@@ -1,0 +1,6 @@
+emp_id,emp_name,manager_id,level
+1,Arun,NULL,1
+2,Priya,1,2
+3,Kiran,1,2
+4,Meena,2,3
+5,Ravi,2,3
